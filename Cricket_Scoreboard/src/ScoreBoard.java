@@ -41,5 +41,5 @@ public class ScoreBoard {
 			over[i].printScorePerBallInCurrentOver();
 		}
 	}
-}	
+}
 
